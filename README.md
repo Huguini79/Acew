@@ -1,3 +1,7 @@
+Para compilarlo, así debes llamar al ejecutable = acew programa.acew
+
+puedes sustituir "programa.acew" por el nombre que tú quieras, como por ejemplo: "ejemplo.acew" o "main.acew"
+
 Por el momento cómo es la salida de la terminal tal cuál está programa.acew:
 
 1) _variable1 TOKEN_ID
